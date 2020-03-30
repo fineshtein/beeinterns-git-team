@@ -1,4 +1,4 @@
-# Team name
+# Команда Beta
 Team slogan 
 
 ## Members:
